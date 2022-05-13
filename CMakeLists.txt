@@ -3,4 +3,4 @@ project(ee205_final_exam)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ee205_final_exam main.cpp)
+add_executable(ee205_final_exam main.cpp Rectangle.cpp Rectangle.h Shape.cpp Shape.h Square.cpp Square.h)
